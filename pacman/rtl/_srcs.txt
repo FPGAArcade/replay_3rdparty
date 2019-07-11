@@ -1,0 +1,13 @@
+roms/pacrom_1m.hex
+roms/pacrom_4a.hex
+roms/pacrom_5e.hex
+roms/pacrom_5f.hex
+roms/pacrom_6e.hex
+roms/pacrom_6f.hex
+roms/pacrom_6h.hex
+roms/pacrom_6j.hex
+roms/pacrom_7f.hex
+
+clk_wiz_0_clk_wiz.v
+pacman_program_rom.vhd
+ArtyS7_replay_top.vhd

@@ -1,0 +1,18 @@
+# relative to repos root
+# use / for path seperator
+
+replay_common/replay_lib/base
+replay_common/replay_lib/prims
+replay_common/replay_lib/rtl/replay_dblscan.vhd
+
+replay_common/lib/generic/filters/rc_butter_1O
+replay_common/lib/cpu/t80
+replay_common/lib/sound/dac/hifi_1bit_dac.v
+
+
+replay_arcade/pacman/rtl/core/pacman_rams.vhd
+replay_arcade/pacman/rtl/core/pacman_rom_descrambler.vhd
+replay_arcade/pacman/rtl/core/pacman_audio.vhd
+replay_arcade/pacman/rtl/core/pacman_vram_addr.vhd
+replay_arcade/pacman/rtl/core/pacman_video.vhd
+replay_arcade/pacman/rtl/core/pacman_top.vhd
